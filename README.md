@@ -1,4 +1,4 @@
-My first attempt at making a CNN for image classification.
+A convolutional neural network for classifying images of rice grains as one of five different species.
 
 Image sets can be found here:
 
